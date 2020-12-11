@@ -1,7 +1,7 @@
 +++
 author = "Dunia Planaguma"
 title = "¿Why have I chosen Udacity to improve my career?"
-date = "2020-12-12"
+date = "2020-10-12"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 +++
 

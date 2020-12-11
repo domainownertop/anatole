@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "Soy Dunia Planaguma, pero llámame Du"
-date = "2020-12-12"
+date = "2020-11-12"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
