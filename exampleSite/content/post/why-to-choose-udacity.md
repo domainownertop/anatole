@@ -1,8 +1,8 @@
 +++
 author = "Dunia Planaguma"
-title = "¿Why have I chosen Udacity to improve my career?"
-date = "2020-10-12"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+title = "¿Why have I chosen Udacity?"
+date = "2020-12-10"
+description = "Those are the main reasons I think Udacity is the best decision I ever took."
 +++
 
 It has been a long-term dream of mine to have a responsible position within Digital Marketing. With this clear goal in mind, I have been searching for it. Unfortunately, with no Marketing qualified studies in my resume, chances were against me, and I was proven right when applying to those jobs. One day after beating myself up due to no responses o “thanks, unfortunately, you don’t have the desire requirements” - all study-wise since I have been managing people for six years and five marketing years on my shoulders - I wondered **Do something!**-. Hence, I stepped back, had a look at what I may be missing, and realized that wasn’t experience or passion. It had to do with the lack of studies related to the field that did not make the cut when applying.
@@ -13,7 +13,7 @@ Will Udacity’s Digital Marketing Nanodegree help me achieve those marketing ro
 
 And the answer was an absolute YES, and let me tell you WHY.
 
-1. Being a huge LinkedIn fan, I saw the number of people I follow that studied in Udacity and had a very successful career. Here is a free tip.
+1. Being a huge LinkedIn fan, I saw the number of people I follow that studied in Udacity and had a very successful career. *Here is a free tip*.
 
 2. The amount of work you put into each project is similar to what you will encounter in any master. So that shows you how serious they are about this nanodegree being considered as a master.
 
