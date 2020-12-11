@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://duniaplanaguma.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "Website of Dunia Planaguma"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -19,16 +19,16 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "I'm Jane Doe"
-author = "Jane Doe"
-description = "Call me Jane"
+title = "I'm Dunia Planaguma"
+author = "Dunia Planaguma"
+description = "Call me Du"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
-customJs = [] 
+customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
@@ -47,22 +47,12 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
-
-[[params.socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
-
-[[params.socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.linkedin.com/in/socialmediawizard/"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "mailto:d_planaguma@hotmail.com"
 
 ## Menu items
 
